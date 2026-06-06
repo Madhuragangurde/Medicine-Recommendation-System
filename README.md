@@ -218,6 +218,7 @@ Workout and lifestyle recommendations for maintaining good health and improving 
 
 ---
 
+
 ## Author
 
 **Madhura Sanjay Gangurde**
@@ -226,8 +227,7 @@ Aspiring Data Analyst | Machine Learning Enthusiast | Python Developer
 
 GitHub: https://github.com/Madhuragangurde
 
----
-
+LinkedIn: https://www.linkedin.com/in/madhura-sanjay-gangurde-797363295/
 ## License
 
 This project is licensed under the MIT License.
