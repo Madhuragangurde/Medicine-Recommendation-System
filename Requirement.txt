@@ -1,0 +1,6 @@
+#Python liraries for building machine model 
+numpy
+pandas
+matplotlib
+seaborn
+sckit-learn
